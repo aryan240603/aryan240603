@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aryan240603
-- 👀 I’m interested in learning different languages
-- 🌱 I’m currently learning C++ programming
+- 👋 Hi, I’m Aryan
+- 👀 I’m interested in learning Web Development
+- 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on C project
 - 📫 How to reach me can contact me via email patelaryan240603@gmail.com
 
